@@ -1,2 +1,2 @@
 # Student Database system
- this is a student database system
+ Student Management system which can be used in institutions for recording student details during admissions. 
